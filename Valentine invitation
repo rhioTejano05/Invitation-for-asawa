@@ -1,0 +1,7 @@
+echo "# Invitation-for-asawa" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/rhioTejano05/Invitation-for-asawa.git
+git push -u origin main
